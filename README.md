@@ -9,4 +9,4 @@ Patterns include several directional drifting gradients as well as patterns from
 
 Reference: Lashley, K. S. (1930). The mechanism of vision: I. A method for rapid analysis of pattern-vision in the rat. *The Pedagogical Seminary and Journal of Genetic Psychology, 37,* 453–460. https://doi.org/10.1080/08856559.1930.9944155
 
-Code was written by (Marty Isaacson)[mi2577a@student.american.edu] as part of her senior capstone project in neuroscience at American University.
+Code was written by [Marty Isaacson](mailto:mi2577a@student.american.edu) as part of her senior capstone project in neuroscience at American University.
